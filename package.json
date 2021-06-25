@@ -1,7 +1,7 @@
 {
   "name": "mern-shopping-cart-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN Shopping cart app",
   "main": "server.js",
   "type": "module",
   "scripts": {
